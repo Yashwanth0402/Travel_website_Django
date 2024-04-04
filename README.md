@@ -1,9 +1,6 @@
-# Travello
-This is basic tours booking website. This site is made up for particular tours company.
-User can book their tours online.
+#This is a simple website for booking tours. This website is exclusive to a certain trip operator. Tours can be scheduled online by users.
 
-For running project:
-1.It is manadtory to add detailed_desc and destionation table's data in table for running project which are available in .sql formate in my Travello repo..
-2.For OTP related things I have mentioned points in settings.py .
-3.Add First record in pessanger detail as Trip_same_id =1 rest value can be any thing.
-
+For the ongoing project: 
+1. The data from the detailed_desc and destionation tables, which are available in my Travello repository in.sql format, must be added to the table for the active project.
+2. I've included points in settings.py on OTP-related topics.
+3.Use Trip_same_id = 1 as the first entry in the passenger detail; the remainder value can be whatever.
